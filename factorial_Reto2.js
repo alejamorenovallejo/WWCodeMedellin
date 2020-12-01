@@ -3,7 +3,7 @@
  * 
  * @param {*} number Int
  */
-n=-0;
+n=-5;
 const factorial = (number) => {
     let resp = number
     if (resp<=1) return 1;
